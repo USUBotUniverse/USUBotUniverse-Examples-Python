@@ -1,2 +1,2 @@
-# Python
+# USUBotUniverse-Python
 Python-protocoladapter
